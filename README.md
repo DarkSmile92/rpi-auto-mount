@@ -5,6 +5,8 @@ This little console wizard detects all connected drived and modifies the /etc/fs
 
 ##Install
 Download the file.  
+```wget https://github.com/DarkSmile92/rpi-auto-mount/blob/master/rpi-auto-mount.sh```  
+
 Make it executable:  
 ```sudo chmod +x rpi-auto-mount.sh```
 
