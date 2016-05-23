@@ -14,3 +14,6 @@ Make it executable:
 ##Use
 Run the script with the following command:  
 ```sudo bash rpi-auto-mount.sh```
+
+##ToDo
+* Make uid and gid selectable
